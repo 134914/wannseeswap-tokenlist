@@ -189,6 +189,17 @@
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/MXCzkEVM/wannseeswap-tokenlist/main/assets/smartP.svg"
     }
+    {
+      "chainId": 18686,
+      "address": "0x268a8429907aacf493704476c3d43f975ef81011",
+      "name": "X2E Token",
+      "symbol": "X2E",
+      "decimals": 18,
+      "logoURI": "",
+      "introduction": "X2E revolutionizes the way of Move-To-Earn tokens. At X2E we lay the foundation of Earning while performing actions.",
+      "twitter": "",
+      "circulatingSupply": 17697714
+    },
   ],
   "version": {
     "major": 2,
